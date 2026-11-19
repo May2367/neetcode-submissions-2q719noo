@@ -2,7 +2,9 @@
 ---
 
 ## What is this?
-...
+
+This repository contains synced NeetCode solutions, serving as a collection of my coding and problem-solving progress.
+
 ---
 
 ## How GitHub Sync works
