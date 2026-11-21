@@ -1,4 +1,4 @@
-# NeetCode Solutions — @May2367
+# NeetCode Solutions
 ---
 
 ## What is this?
