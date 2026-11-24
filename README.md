@@ -9,7 +9,7 @@ This repository contains synced NeetCode solutions, serving as a collection of m
 
 ## Repository structure
 
-Solutions are organized by topic folder, then problem ID. Each submission is stored as a separate file:
+Solutions are organized by topic folder, then problem ID. Each submission is stored as a separate file: 
 
 ```
 <topic-folder>/
